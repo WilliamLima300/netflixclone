@@ -1,7 +1,7 @@
 
-#Creditos
+# Creditos::music
 
-##Criado seguindo video no youtube: https://www.youtube.com/watch?v=tBweoUiMsDg
+## Criado seguindo video no youtube: https://www.youtube.com/watch?v=tBweoUiMsDg
 
 # Getting Started with Create React App
 
