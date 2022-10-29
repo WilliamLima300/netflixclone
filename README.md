@@ -1,7 +1,9 @@
 
-# Creditos::music
+# Creditos:
 
 ## Criado seguindo video no youtube: https://www.youtube.com/watch?v=tBweoUiMsDg
+
+### Agradecimento  a b7
 
 # Getting Started with Create React App
 
