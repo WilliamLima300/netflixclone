@@ -1,6 +1,8 @@
 
 # Creditos:  Agradecimento  a b7
 
+# link do deploy: https://main--shiny-snickerdoodle-4f471f.netlify.app
+
 ## Preview
 ![Preview](https://github.com/WilliamLima300/netflixclone/blob/main/Preview%20Netflix%20Clone.png)
 
