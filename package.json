@@ -27,16 +27,8 @@
     "extends": [
       "react-app",
       "react-app/jest"
-    ],
-    "import/no-anonymous-default-export": ["error", {
-      "allowArray": false,
-      "allowArrowFunction": false,
-      "allowAnonymousClass": false,
-      "allowAnonymousFunction": false,
-      "allowCallExpression": true, 
-      "allowLiteral": false,
-      "allowObject": false
-    }]
+    ]
+
   },
   "browserslist": {
     "production": [
@@ -49,5 +41,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "import/no-anonymous-default-export": ["error", {
+    "allowArray": false,
+    "allowArrowFunction": false,
+    "allowAnonymousClass": false,
+    "allowAnonymousFunction": false,
+    "allowCallExpression": true,
+    "allowLiteral": false,
+    "allowObject": false
+  }]
 }
