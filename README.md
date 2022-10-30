@@ -1,7 +1,8 @@
 
 # Creditos:
 
-## Criado seguindo video no youtube: https://www.youtube.com/watch?v=tBweoUiMsDg
+## Preview
+![Preview](https://github.com/WilliamLima300/netflixclone/blob/main/Preview%20Netflix%20Clone.png)
 
 ### Agradecimento  a b7
 
